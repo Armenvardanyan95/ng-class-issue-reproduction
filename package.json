@@ -13,7 +13,7 @@
   "dependencies": {
     "@angular/common": "~9.0.0",
     "@angular/compiler": "~9.0.0",
-    "@angular/core": "~9.0.0",
+    "@angular/core": "~11.0.5",
     "@angular/elements": "~9.0.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0"
